@@ -1,0 +1,27 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "RubysDilemma";
+
+/* The localized name of the first chapter in the playground book. */
+"ChapterOneName" = "Chapter One";
+
+/* The localized name of the first page in the first chapter in the playground book. */
+"ChapterOnePageOneName" = "Prelude";
+
+/* The localized name of the second page in the first chapter in the playground book. */
+"ChapterOnePageTwoName" = "Disaster";
+
+/* The localized name of the third page in the first chapter in the playground book. */
+"ChapterOnePageThreeName" = "Labyrinth";
+
+/* The localized name of the fourth page in the first chapter in the playground book. */
+"ChapterOnePageFourName" = "Realization";
+
+/* The localized name of the fifth page in the first chapter in the playground book. */
+"ChapterOnePageFiveName" = "Conclusions";
