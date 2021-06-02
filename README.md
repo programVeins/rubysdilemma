@@ -1,5 +1,7 @@
 # Ruby's Dilemma
 
+![DubDub](https://img.shields.io/badge/WWDC-21-blue)  ![Swift](https://img.shields.io/badge/platform-SwftUI-red)   ![Xcode](https://img.shields.io/badge/Tool-Xcode-informational) ![Xcode](https://img.shields.io/badge/Status-Accepted-success)
+
 Meet Ruby the Rabbit 🐰 and delve into her life as you experience this Swift Playground, written in the form of a playgroundbook. Stay with Ruby and help her in various activities until you find out that there's a stunning revelation waiting for you! 
 
 ## About my playground
