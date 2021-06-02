@@ -4,6 +4,8 @@
 
 Meet Ruby the Rabbit 🐰 and delve into her life as you experience this Swift Playground, written in the form of a playgroundbook. Stay with Ruby and help her in various activities until you find out that there's a stunning revelation waiting for you! 
 
+![Thumbnal](https://i.lensdump.com/i/Zj5ItF.png)
+
 ## About my playground
 
 My Swift playground is built as a Playground book using Xcode. Users must manually navigate through the pages of the playground book after each page is experienced. The first page of the book starts up with a simple SwiftUI View of the main character in the experience. Then, I used the AVFoundation framework to implement music and a video player.
